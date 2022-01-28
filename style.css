@@ -1,0 +1,45 @@
+body
+{
+    background-size: cover;
+    font-family: 'Bangers', cursive;
+font-family: 'Fuzzy Bubbles', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Shizuru', cursive;
+font-family: 'Staatliches', cursive;
+}
+
+.heading
+{
+    font-size: 23px;
+    font-weight: bold;
+    color: #ffff;
+    width: 100%;
+    margin: 0px;
+} 
+
+#start , #number_of_objects, #start
+{
+    font-size: 18px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #ffff;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
